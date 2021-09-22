@@ -1,12 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://dribbble.com/shots/7644328-Programmer" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankur </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I'm Ankur </h1>
 <h3 align="center">A CSE Sophomore trying to pave the way to become a web developer. </h3>
 
 
 
 
 - 🌱 I’m currently learning **full stack web development**
+
+- 🤝 I’m looking to collaborate on **opensource projects**
 
 - 📫 How to reach me **ankurshshwat@gmail.com**
 
