@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/1708876/screenshots/4408331/media/178061248a1e6be85d3e699d7552514c.png?compress=1&resize=800x600" height="175px"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I'm Ankur </h1>
 <h3 align="center">A CSE Sophomore trying to pave the way to become a web developer. </h3>
