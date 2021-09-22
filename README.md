@@ -4,8 +4,7 @@
 <h3 align="center">A CSE Sophomore trying to pave the way to become a web developer. </h3>
 
 
-<h1 align="center">Hi, I'm Ankur</h1>
-<h3 align="center">A CSE Sophomore trying to pave the way to become a web developer.</h3>
+
 
 - 🌱 I’m currently learning **full stack web development**
 
