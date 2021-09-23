@@ -26,6 +26,6 @@
 
 
   <br/>
-    <a href="https://github.com/ankurshashwat/github-readme-stats"><img alt="Ankur Shashwat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankurshashwat&show_icons=true&count_private=true&icon_color=79FE96&hide_border=true&bg_color=151515&text_color=9E9E9E&title_color=FFF" /></a>
+   <a href="https://github.com/ankurshashwat/github-readme-stats"><img alt="Ankur Shashwat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankurshashwat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
   <br/>
